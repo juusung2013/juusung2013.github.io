@@ -103,7 +103,7 @@ analytics:
 author:
   name: "Park juseong"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "**기록이 자산!**조금씩이라도 꾸준히!"
+  bio: "**기록이 자산!**<br>조금씩이라도 꾸준히!"
   location: "Republic of Korea"
   email:
   links:
@@ -201,7 +201,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 15 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
